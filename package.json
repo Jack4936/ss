@@ -81,8 +81,5 @@
         "description": "Required long random token for `/download/*`. It must differ from the admin token; never keep a public placeholder."
       }
     }
-  },
-  "devDependencies": {
-    "cf": "1.0.0-beta.14"
   }
 }
