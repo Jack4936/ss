@@ -31,6 +31,6 @@
   ],
   "vars": {
     "SUB_STORE_APP_NAME": "Sub-Store Cloudflare",
-    "SUB_STORE_PUBLIC_DOWNLOAD_HOSTS": "https://ss.pickans.ccwu.cc"
+    "SUB_STORE_PUBLIC_DOWNLOAD_HOSTS": "https://ss.roy732587572.workers.dev"
   }
 }
